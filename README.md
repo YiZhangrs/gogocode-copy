@@ -4,7 +4,7 @@
 
 [ 详细文档点击这里 ](https://github.com/thx/gogocode/blob/main/docs/specification/basic.zh.md)
 
-## What is GoGoCode???
+## What is GoGoCode??? What is GoGoCode???
 
 [中文 README](README-cn.md)
 
@@ -17,7 +17,7 @@ Learn more at [GoGoCode Document](https://github.com/thx/gogocode/blob/main/docs
 
 ## Intro
 
-Let's show you how to select and modify code with our API
+Let's show you how to select and modify code with our API.
 
 ### In
 
